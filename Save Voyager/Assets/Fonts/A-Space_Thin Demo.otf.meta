@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a46ffce77f0639744a31f17ac1d3ab8b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - A-Space Thin Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a38e3846752dbdf4aab46a30973d8a28, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

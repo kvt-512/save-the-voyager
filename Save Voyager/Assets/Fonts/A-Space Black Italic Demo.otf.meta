@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 45b2dd0aaca34414b8cd558604563696
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - A-Space Black Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00d4d25aa089857419432807474cf2dd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
